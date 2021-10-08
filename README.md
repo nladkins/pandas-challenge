@@ -18,3 +18,5 @@
   8. "Most_Profitable_Items.csv" analyzing the five most profitable items by total sales including the item ID, name, price, and total sales.
 
 This script could be useful for performing similar analysis on sales data that is either structured similarly or require minor modifications to the script.
+
+This repository also includes an analysis of the results that were produced by the script.
