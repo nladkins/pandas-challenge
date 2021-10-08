@@ -1,0 +1,12 @@
+#  pandas-challenge
+
+## Review the README.md file first to understand the background.
+
+## Analysis
+
+Following the outputs from the script, the following conclusions can be drawn:
+  1. Roughly 83% of sales are age 30 or younger.
+  2. Roughly 83% of sales are from individuals that identify themselves as male gender.
+  3. The most popular item sold was also the product bought the most times.
+  4. Of all customers that had transactions, the highest was five with only one person in that category.
+  5. Only 17 individuals, or roughly 2.2%, had total sales above $10 with the highest being $18.96 in total sales.
