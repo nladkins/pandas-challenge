@@ -13,7 +13,7 @@
   3. "Age_Purchasing_Analysis.csv" analyzing the number of transactions, average purchase price, total sales, and average purchase by bin.
   4. "Gender_Demographics.csv" including percentage and count of each of the gender categories reported.
   5. "Gender_Purchasing_Analysis.csv" analyzing the number of transactions, average purchase price, total sales, and average purchase by reported gender.
-  6. "Top_Spenders.csv" analyzing the number of customer numbers "SN" that identify the top spenders, the number of purchases made, average purchase, and total sales.
+  6. "Top_Spenders.csv" analyzing the number of customer numbers "SN" that identify the top five spenders, the number of purchases made, average purchase, and total sales.
   7. "Most_Popular_Items.csv" analyzing the five most popular items by number of times each item was purchased including the item ID, name, price, and total sales.
   8. "Most_Profitable_Items.csv" analyzing the five most profitable items by total sales including the item ID, name, price, and total sales.
 
